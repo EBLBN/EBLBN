@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/enesbalaban" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/enesblbn/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/enesbalabann33" target="_blank" rel="noreferrer">
